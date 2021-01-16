@@ -1,16 +1,11 @@
-# story_tell
+# 'What If Infinity War'
 
-A new Flutter project.
+More one Flutter Challenge inspired in by Angela Yu and her project destiny_challenge.
 
-## Getting Started
+An app where the user has the possibility to interact with the story and choose an end to it.
 
-This project is a starting point for a Flutter application.
+![story_tell](https://user-images.githubusercontent.com/53340410/104793045-893ef600-577f-11eb-9eb8-783f3caee5bf.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
